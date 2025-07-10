@@ -1,3 +1,5 @@
+![Homepage Screenshot](images/homepage.png)
+
 # 🎬 Simple Movie Recommender System
 
 This is a **content-based movie recommendation system** built using **Python, NLP, and Streamlit**. It suggests movies similar to the one you type in, based on genre, keywords, cast, crew, and description.
@@ -25,7 +27,7 @@ This is a **content-based movie recommendation system** built using **Python, NL
 ---
 
 ## 🚀 Getting Started
-![Homepage Screenshot](Screenshot 2025-07-10 235359.png)
+
 
 ### 1. Clone the repo
 
