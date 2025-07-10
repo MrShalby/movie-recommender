@@ -29,8 +29,8 @@ This is a **content-based movie recommendation system** built using **Python, NL
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender-streamlit.git
-cd movie-recommender-streamlit
+git https://github.com/MrShalby/movie-recommender
+cd movie-recommender
 
 
 ---
