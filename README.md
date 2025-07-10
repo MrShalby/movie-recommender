@@ -25,6 +25,7 @@ This is a **content-based movie recommendation system** built using **Python, NL
 ---
 
 ## 🚀 Getting Started
+![Homepage Screenshot](Screenshot 2025-07-10 235359.png)
 
 ### 1. Clone the repo
 
@@ -32,5 +33,8 @@ This is a **content-based movie recommendation system** built using **Python, NL
 git https://github.com/MrShalby/movie-recommender
 cd movie-recommender
 
-
 ---
+
+
+
+
