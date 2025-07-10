@@ -1,4 +1,4 @@
-![Homepage Screenshot](images/homepage.png)
+
 
 # 🎬 Simple Movie Recommender System
 
@@ -36,7 +36,8 @@ git https://github.com/MrShalby/movie-recommender
 cd movie-recommender
 
 ---
+```
 
 
 
-
+  ![Homepage Screenshot](images/homepage.png)
